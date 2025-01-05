@@ -1,5 +1,8 @@
 # Udemy Pricing and Ratings Report
 
+<img width="1043" alt="Screen Shot 2025-01-04 at 6 35 32 PM" src="https://github.com/user-attachments/assets/8b3835d4-1a3d-4df0-b6a7-9cdc0325a774" />
+
+
 ## Dataset 
 
 I found the Udemy Course Data on Kaggle: https://www.kaggle.com/datasets/omarmohammed271/udemy-courses-2025 
@@ -8,8 +11,8 @@ There were 12 columns: course_id, course_title, url, price, num_subscribers, num
 
 ## Research Question 
  
-- What subjects should Udemy offer more courses for based on revenue calculated by subscribers and price? 
-- How are Udemy’s course ratings for the top revenue generating subjects? 
+- What are the top revenue-generating subjects calculated by subscribers and price? 
+- How are Udemy’s course ratings for the top revenue-generating subjects? 
 - What are potential opportunities to increase revenue? 
 
 ## Data Cleaning 
@@ -23,8 +26,7 @@ The data cleaning steps included:
 
 I calculated average, sum, min, max, median, and standard deviation for price, number of subscribers, number of reviews, number of lectures, rating, and content duration. 
 
-Screenshot of table
-
+<img width="678" alt="Screen Shot 2025-01-04 at 6 36 10 PM" src="https://github.com/user-attachments/assets/05b4c868-f976-45c3-ace5-5dd6a463c9eb" />
 
 ## Data Analysis 
 
@@ -35,10 +37,9 @@ I calculated the following fields:
 
 I used a pivot table to identify the top 10 subjects based on the total course revenue grouped by subject. 
 
-Screenshot of pivot table
+<img width="647" alt="Screen Shot 2025-01-04 at 6 36 30 PM" src="https://github.com/user-attachments/assets/6ae17dac-b97e-49b8-96f4-a520e940b033" />
 
-Screenshot of chart
-
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/269a71e9-9031-4d25-a902-f6f9bdd273b5" />
 
 ## Conclusion 
 
