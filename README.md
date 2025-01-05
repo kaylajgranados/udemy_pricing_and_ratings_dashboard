@@ -43,7 +43,7 @@ I used a pivot table to identify the top 10 subjects based on the total course r
 
 ## Conclusion 
 
-The subject area with most subscribers and most total course revenue is Python. The highest rated courses in the top 10 revenue-generating subjects are in the CSS subject area. 
+Python is the subject area with most subscribers and most total course revenue. CSS is the highest rated courses in the top 10 revenue-generating subject areas.  
 
 Moving forward, Udemy could consider the following to generate revenue: 
 Offer additional courses in Python to meet the high demandr. 
