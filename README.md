@@ -1,4 +1,4 @@
-# Udemy Pricing and Ratings Report
+# Udemy Revenue and Ratings Dashboard
 
 ![Screen Shot 2025-01-11 at 6 59 53 PM](https://github.com/user-attachments/assets/5e6ac95c-b2ac-441c-a84b-818400a77b7b)
 
