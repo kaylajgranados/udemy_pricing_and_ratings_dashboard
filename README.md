@@ -23,8 +23,8 @@ The data cleaning steps included:
 ## Data Analysis 
 
 I calculated the following fields: 
-Review Response Rate = num_reviews / num_subscribers
-Projected Revenue = price * num_subscribers 
+ * Review Response Rate = num_reviews / num_subscribers
+* Projected Revenue = price * num_subscribers 
 
 Then, I used nested IF functions to create ranges for the following fields: course price, number of subscribers, ratings, review response rate, and projected revenue. For example, the formula below categorizes the number of subscribers into five levels (Very High, High, Medium, Low, and Very Low) based on defined criteria. 
 
