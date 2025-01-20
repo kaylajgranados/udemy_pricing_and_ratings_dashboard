@@ -1,7 +1,6 @@
 # Udemy Projected Revenue and Ratings Dashboard
 
-![Screen Shot 2025-01-20 at 2 33 52 PM](https://github.com/user-attachments/assets/8e678aad-d565-4ed8-992c-e6524528e41f)
-
+![Screen Shot 2025-01-20 at 2 36 30 PM](https://github.com/user-attachments/assets/09c14621-6d87-446c-b67c-2dde0dba0ee4)
 
 
 
